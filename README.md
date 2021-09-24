@@ -1,4 +1,4 @@
-ECE528 KL Algorithm
+##ECE528 KL Algorithm
 
 You can use the following commands:
 
